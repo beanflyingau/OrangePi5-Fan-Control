@@ -1,7 +1,7 @@
 Fan-control 
 ==============
 
-A tool to control fan speed by temperature automatically for ROCK5B.
+A tool to control fan speed by temperature automatically for OrangePi5+    (was ROCK5B)
 
 Features
 --------------
